@@ -14,3 +14,5 @@ Ska man
 `2.` Ska man bara ignorera hinkarna och låtsas att dem är vatten? Is-hinkar? Man tar upp dem ur vattnet och sen smälter de och blir vatten? Kanske fungerar, men en hink vatten tar upp mer plats än 20 vatten :/ Kan man spara en halv hink vatten?
 
 `3.` Free-space
+
+Och hur kommer man åt vattnet i hinkarna? :(
