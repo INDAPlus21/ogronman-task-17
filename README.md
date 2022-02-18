@@ -1,6 +1,6 @@
 # ogronman-task-17
 
-### Working-Allocators
+### Working-Allocators:
 
 ##### Buffer allocator (`buffer.zig`)
 
@@ -14,11 +14,11 @@ zig build test
 
 There will be one error since pool2Allocator does not work
 
-### Work in progress
+### Work in progress:
 
 ##### Pool-allocator (`pool2.zig`)
 
-### Not Working
+### Not Working:
 
 ##### Pool-allocator (`pool.zig`)
 
@@ -27,11 +27,11 @@ There will be one error since pool2Allocator does not work
 ##### stack-thing (`stack.zig`)
 
 
-### Not implemented
+### Not implemented:
 
 ##### some-allocator (`some.zig`)
 
-#### The pool problem
+### The pool problem
 
 Tänk dig att du vill spara en viss mängd vatten. Du vill kanske t.ex. spara 500 vatten. Det du gör då är att du skaffar 25 hinkar och fyller de hinkarna med 20 vatten, och sen dumpar du dem i poolen. Varje gång du ska ha en hink med vatten kan du då ta en hink, fylla den med vatten från poolen och sedan förflytta vattnet. I de flesta världar skulle det här vara rätt lätt, speciellt om man vet vad man gör... 
 
